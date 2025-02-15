@@ -1,0 +1,16 @@
+[Bookmarks]
+/home/gc/blenderStuff/
+/home/gc/blenderStuff/products/
+/home/gc/blenderStuff/renders/
+/home/gc/blenderStuff/assets/textures/
+[Recent]
+/home/gc/blenderStuff/assets/textures/
+/home/gc/blenderStuff/assets/textures/food_apple_01/
+/home/gc/blenderStuff/assets/
+/home/gc/blenderStuff/assets/props/
+/home/gc/blenderStuff/assets/pbr/
+/home/gc/Downloads/
+/home/gc/blenderStuff/products/barca/formats/
+/home/gc/blenderStuff/products/barca/textures/
+/home/gc/blenderStuff/products/barca/
+/home/gc/blenderStuff/renders/barca/wf2/

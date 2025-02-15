@@ -1,0 +1,9 @@
+bash/.bash_history
+bash/.bash_history_archive
+blender/.config/blender/**/recent-files.txt
+blender/.config/blender/**/recent-searches.txt
+blender/**/addons/*
+blender/**/extensions/*
+**recent-files.txt
+ssh/*
+*errors*

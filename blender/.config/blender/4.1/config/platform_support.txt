@@ -1,0 +1,9 @@
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 23.1.9-manjaro1.1}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 23.3.3-manjaro1.1}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 23.3.5-manjaro1.1}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 24.0.2-manjaro1.1}=SUPPORTED
+{NVIDIA Corporation/NVIDIA GeForce GTX 1060/PCIe/SSE2/4.6.0 NVIDIA 550.67}=SUPPORTED
+{NVIDIA Corporation/NVIDIA GeForce GTX 1060/PCIe/SSE2/4.6.0 NVIDIA 550.78}=SUPPORTED
+{NVIDIA Corporation/NVIDIA GeForce GTX 1060/PCIe/SSE2/4.6.0 NVIDIA 550.90.07}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 24.1.1-manjaro1.1}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 24.1.3-manjaro1.1}=SUPPORTED

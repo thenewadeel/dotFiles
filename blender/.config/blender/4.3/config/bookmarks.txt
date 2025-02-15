@@ -1,0 +1,14 @@
+[Bookmarks]
+/home/gc/blenderStuff/
+/home/gc/blenderStuff/products/booth/
+[Recent]
+/home/gc/blenderStuff/products/final/designer tables/table4/
+/home/gc/blenderStuff/products/final/designer tables/table10/
+/home/gc/blenderStuff/blends/
+/home/gc/Desktop/
+/home/gc/Downloads/dafont/
+/home/gc/blenderStuff/hdris/
+/home/gc/blenderStuff/products/final/booth/
+/home/gc/blenderStuff/assets/
+/bin/
+/home/gc/blenderStuff/products/booth/formats/

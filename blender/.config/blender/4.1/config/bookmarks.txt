@@ -1,0 +1,14 @@
+[Bookmarks]
+/home/gc/blenderStuff/
+/home/gc/blenderStuff/products/
+[Recent]
+/home/gc/blenderStuff/ref/football-logos/logos/ES1/
+/usr/share/fonts/TTF/
+/usr/share/fonts/gsfonts/
+/usr/share/fonts/dafont/
+/usr/share/fonts/cantarell/
+/usr/share/fonts/adobe-source-sans/
+/usr/share/fonts/noto/
+/usr/share/fonts/adobe-source-code-pro/
+/home/gc/blenderStuff/hdris/
+/home/gc/blenderStuff/renders/fc es1/

@@ -1,0 +1,4 @@
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 24.1.5-manjaro1.1}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 24.1.6-arch1.1}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 24.2.4-arch1.0.1}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics 630 (CFL GT2)/4.6 (Core Profile) Mesa 24.2.8-arch1.1}=SUPPORTED
